@@ -1,4 +1,4 @@
-# 🏋️‍♂️ FitPlan AI: Personalized Fitness Plan Generator
+#  FitPlan AI: Personalized Fitness Plan Generator
 ## Milestone 1: Front-End Development
 
 ###  Objective of the Milestone
@@ -38,7 +38,7 @@ Body Mass Index (BMI) is calculated as a measure of relative weight based on an 
 
 ---
 
-### 💻 Technologies Used
+###  Technologies Used
 - **Frontend/Backend:** Streamlit
 - **Data Visualization:** Pandas
 - **Deployment:** Hugging Face Spaces
@@ -46,7 +46,7 @@ Body Mass Index (BMI) is calculated as a measure of relative weight based on an 
 
 ---
 
-### 🔗 Live Application Link
+###  Live Application Link
 **[View FitPlan AI on Hugging Face Spaces](https://huggingface.co/spaces/Shrey0405/Fitplan)**
 
 ---
