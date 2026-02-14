@@ -55,19 +55,19 @@ Body Mass Index (BMI) is calculated as a measure of relative weight based on an 
 
 #### **1. Initial Setup**
 *The clean, unpopulated form ready for user input.*
-![Initial Form](Milstone 1/Screenshot/form_empty.png)
+![Initial Form](Screenshot/form_empty.png)
 
 #### **2. Data Entry & Profile Syncing**
 *Capturing user stats and confirming the profile is successfully synced.*
-![Filled Form](Milstone 1/Screenshot/form_filled.png)
-![Synced Profile](Milstone 1/Screenshot/profile_synced.png)
+![Filled Form](Screenshot/form_filled.png)
+![Synced Profile](Screenshot/profile_synced.png)
 
 #### **3. Professional Dashboard**
 *A summary showing calculated BMI, category, and goal consistency charts.*
-![Dashboard](Milstone 1/Screenshot/dashboard.png)
+![Dashboard](Screenshot/dashboard.png)
 
 #### **4. Deep-Dive Health Analysis**
 *AI-driven insights regarding ideal weight ranges and metabolic age.*
-![Health Analysis](health_metrics.png)
+![Health Analysis](Screenshot/health_metrics.png)
 
 ---
