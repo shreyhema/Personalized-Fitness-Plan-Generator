@@ -68,6 +68,6 @@ Body Mass Index (BMI) is calculated as a measure of relative weight based on an 
 
 #### **4. Deep-Dive Health Analysis**
 *AI-driven insights regarding ideal weight ranges and metabolic age.*
-![Health Analysis](Milstone 1/Screenshot/health_metrics.png)
+![Health Analysis](health_metrics.png)
 
 ---
