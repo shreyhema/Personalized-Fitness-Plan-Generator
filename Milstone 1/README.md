@@ -1,7 +1,7 @@
 # 🏋️‍♂️ FitPlan AI: Personalized Fitness Plan Generator
 ## Milestone 1: Front-End Development
 
-### 🎯 Objective of the Milestone
+###  Objective of the Milestone
 The objective of Milestone 1 is to build the core foundation of the FitPlan AI application. This phase focuses on:
 - **User Interface:** Creating a professional, "app-like" experience using Streamlit.
 - **Data Collection:** Capturing essential health and fitness parameters including Name, Age, Height, Weight, and Goals.
@@ -11,7 +11,7 @@ The objective of Milestone 1 is to build the core foundation of the FitPlan AI a
 
 ---
 
-### 🧮 BMI Formula & Logic
+###  BMI Formula & Logic
 Body Mass Index (BMI) is calculated as a measure of relative weight based on an individual's mass and height.
 
 1. **Unit Conversion:** The application captures height in centimeters ($cm$). It is converted to meters ($m$) for the formula:
@@ -29,7 +29,7 @@ Body Mass Index (BMI) is calculated as a measure of relative weight based on an 
 
 ---
 
-### 🛠️ Steps Performed
+###  Steps Performed
 1. **Form Creation:** Developed a responsive profile form with input validation for health and fitness details.
 2. **Input Validation:** Implemented checks to ensure Name, Height, and Weight are provided and non-negative.
 3. **BMI & Analytics Logic:** Built a backend engine to automate unit conversions and health classifications.
@@ -51,7 +51,7 @@ Body Mass Index (BMI) is calculated as a measure of relative weight based on an 
 
 ---
 
-### 📸 Application Gallery
+###  Application Gallery
 
 #### **1. Initial Setup**
 *The clean, unpopulated form ready for user input.*
