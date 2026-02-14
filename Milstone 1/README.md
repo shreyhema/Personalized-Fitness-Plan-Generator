@@ -3,7 +3,7 @@
 
 ###  Objective of the Milestone
 The objective of Milestone 1 is to build the core foundation of the FitPlan AI application. This phase focuses on:
-- **User Interface:** Creating a professional, "app-like" experience using Streamlit.
+- **User Interface:** Creating Personalized Fitness tracking using Streamlit.
 - **Data Collection:** Capturing essential health and fitness parameters including Name, Age, Height, Weight, and Goals.
 - **Health Logic:** Implementing accurate BMI calculations and standard health classifications.
 - **Persistence:** Ensuring user data is saved and editable throughout the application session using session state.
