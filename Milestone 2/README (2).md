@@ -17,7 +17,7 @@ The primary goal of Milestone 2 was to implement the **Core AI Model Integration
 * **Core Logic:** The application utilizes a `workout_generator` function that acts as a deterministic model, mapping specific user goals (Build Muscle, Weight Loss, Strength Gain, etc.) to optimized training protocols.
 * **Inference Method:** Dynamic Template Mapping based on user profile context.
 
-## 📝 Prompt Design Explanation
+##  Prompt Design Explanation
 The system uses a **Context-Aware Prompt Construction** method. The input is not just a goal, but a multi-variable profile:
 1. **User Identity:** Name and Age for personalization.
 2. **Physical Profile:** Height and Weight are used to calculate **BMI**, which adjusts the plan's context.
@@ -40,12 +40,11 @@ The system uses a **Context-Aware Prompt Construction** method. The input is not
 
 ## Deployment
 The application is live and functional on Hugging Face Spaces:
-**[REPLACE_WITH_YOUR_HF_SPACES_LINK]**
-
+**[https://huggingface.co/spaces/Shrey0405/2Fitplan]**
 
 ---
 
-## 📊 Sample Generated Output
+##  Sample Generated Output
 
 **User Profile:** * **Name:** Krish  
 * **Fitness Goal:** Abs Building  
@@ -80,9 +79,9 @@ Below are the visual highlights of the FitPlan AI interface:
 
 | Screenshot | Caption |
 | :--- | :--- |
-| ![User Input Interface](./Milestone 2/M2-Screenshots/user2-1.png) | **User Profile Setup:** Capturing user metrics including BMI calculation and fitness goal selection. |
-| ![AI Generation Process](./Milestone 2/M2-Screenshots/user2-2.png) | **Dynamic Generation:** The core AI logic processing the "Abs Building" prompt to create a specific routine. |
-| ![Final Workout Plan](./Milestone 2/M2-Screenshots/user2-3.png) | **Personalized Dashboard:** The final 5-day plan displayed with high readability and a download option. |
+| ![User Input Interface](/Milestone 2/M2-Screenshots/user2-1.png) | **User Profile Setup:** Capturing user metrics including BMI calculation and fitness goal selection. |
+| ![AI Generation Process](/Milestone 2/M2-Screenshots/user2-2.png) | **Dynamic Generation:** The core AI logic processing the "Abs Building" prompt to create a specific routine. |
+| ![Final Workout Plan](/Milestone 2/M2-Screenshots/user2-3.png) | **Personalized Dashboard:** The final 5-day plan displayed with high readability and a download option. |
 
 ---
 
