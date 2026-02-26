@@ -37,25 +37,57 @@ The system uses a **Context-Aware Prompt Construction** method. The input is not
 4. **UI Styling:** Implemented a Dark Mode UI with custom CSS for plan readability.
 
 ---
+
 ## Deployment
 The application is live and functional on Hugging Face Spaces:
 **[REPLACE_WITH_YOUR_HF_SPACES_LINK]**
+
+
 ---
 
 ## 📊 Sample Generated Output
 
-**User:** John Doe  
-**Goal:** Build Muscle  
-**BMI Category:** Normal  
+**User Profile:** * **Name:** Krish  
+* **Fitness Goal:** Abs Building  
+* **BMI Category:** Normal  
 
-> **➡️ Day 1: Chest (Push)**
-> - Focus on the "stretch and squeeze" of the pectoral fibers.
-> - Barbell Bench Press: 4 sets 6–8 reps.
-> - Incline Dumbbell Press: 3 sets 10–12 reps.
-> - Chest Dips: 3 sets to Failure.
-> - Push-ups: 2 sets Max reps (finisher).
+> ### 🏋️ Your Personalized 5-Day Abs Building Plan
+> 
+> ➡️ **Day 1: Upper Abs Focus**
+> - Floor Crunch: 3 sets x 20 reps. Targets the upper rectus abdominis.
+> - Sit-ups: 4 sets x 15 reps. A classic for building core power.
+> - Toe Touches: 4 sets x 30 reps. Engages the upper abs through targeted flexion.
+> - Plank: 3 sets x Max Time. Essential for overall core tension.
+> 
+> ➡️ **Day 2: Lower Abs Focus**
+> - Lying Leg Raise: 3 sets x 15 reps. One of the best for lower ab activation.
+> - Reverse Crunch: 4 sets x 10-15 reps. Focuses on bringing the hips toward the chest.
+> - Flutter Kicks: 40 seconds. Keeps constant tension on the lower core.
+> - Scissor Kicks: 4 sets x 30 reps. Mimics walking to engage deep lower muscles.
+> 
+> ➡️ **Day 3: Obliques**
+> - Russian Twists: 4 sets x 20 reps. Key for rotational strength and side-ab definition.
+> - Side Plank: 30-45 seconds per side. Builds lateral stability.
+> - Crossbody Mountain Climbers: 30 seconds. Combines cardio with oblique rotation.
+> 
+> *(Plan continues for 5 days...)*
 
 ---
+
+## 📸 Application Walkthrough
+
+Below are the visual highlights of the FitPlan AI interface:
+
+| Screenshot | Caption |
+| :--- | :--- |
+| ![User Input Interface](./screenshots/step1_profile.png) | **User Profile Setup:** Capturing user metrics including BMI calculation and fitness goal selection. |
+| ![AI Generation Process](./screenshots/step2_generation.png) | **Dynamic Generation:** The core AI logic processing the "Abs Building" prompt to create a specific routine. |
+| ![Final Workout Plan](./screenshots/step3_plan.png) | **Personalized Dashboard:** The final 5-day plan displayed with high readability and a download option. |
+
+---
+
+
+
 
 
 
