@@ -44,7 +44,7 @@ The application is live and functional on Hugging Face Spaces:
 
 ---
 
-##  Sample Generated Output
+## 📊 Sample Generated Output
 
 **User Profile:** * **Name:** Krish  
 * **Fitness Goal:** Abs Building  
@@ -53,37 +53,55 @@ The application is live and functional on Hugging Face Spaces:
 > ### 🏋️ Your Personalized 5-Day Abs Building Plan
 > 
 > ➡️ **Day 1: Upper Abs Focus**
-> - Floor Crunch: 3 sets x 20 reps. Targets the upper rectus abdominis.
-> - Sit-ups: 4 sets x 15 reps. A classic for building core power.
-> - Toe Touches: 4 sets x 30 reps. Engages the upper abs through targeted flexion.
-> - Plank: 3 sets x Max Time. Essential for overall core tension.
+> - **Floor Crunch:** 3 sets x 20 reps. Targets the upper rectus abdominis.
+> - **Sit-ups:** 4 sets x 15 reps. A classic for building core power.
+> - **Toe Touches:** 4 sets x 30 reps. Engages the upper abs through targeted flexion.
+> - **Plank:** 3 sets x Max Time. Essential for overall core tension.
 > 
 > ➡️ **Day 2: Lower Abs Focus**
-> - Lying Leg Raise: 3 sets x 15 reps. One of the best for lower ab activation.
-> - Reverse Crunch: 4 sets x 10-15 reps. Focuses on bringing the hips toward the chest.
-> - Flutter Kicks: 40 seconds. Keeps constant tension on the lower core.
-> - Scissor Kicks: 4 sets x 30 reps. Mimics walking to engage deep lower muscles.
+> - **Lying Leg Raise:** 3 sets x 15 reps. One of the best for lower ab activation.
+> - **Reverse Crunch:** 4 sets x 10-15 reps. Focuses on bringing the hips toward the chest.
+> - **Flutter Kicks:** 40 seconds. Keeps constant tension on the lower core.
+> - **Scissor Kicks:** 4 sets x 30 reps. Mimics walking to engage deep lower muscles.
 > 
 > ➡️ **Day 3: Obliques**
-> - Russian Twists: 4 sets x 20 reps. Key for rotational strength and side-ab definition.
-> - Side Plank: 30-45 seconds per side. Builds lateral stability.
-> - Crossbody Mountain Climbers: 30 seconds. Combines cardio with oblique rotation.
+> - **Russian Twists:** 4 sets x 20 reps. Key for rotational strength and side-ab definition.
+> - **Side Plank:** 30-45 seconds per side. Builds lateral stability.
+> - **Crossbody Mountain Climbers:** 30 seconds. Combines cardio with oblique rotation.
+> - **Side Crunches:** 40 seconds per side. Directly targets the lateral core.
 > 
-> *(Plan continues for 5 days...)*
+> ➡️ **Day 4: Core Stability**
+> - **Bird Dog:** 5 reps per side (slowly). Teaches the core to stay stable during movement.
+> - **Plank Shoulder Taps:** 40 seconds. Forces the core to resist rotation.
+> - **Superman Hold:** 40 seconds. Supports lower back health to balance front abs.
+> - **Plank Jacks:** 10-15 reps. Adds a cardio element to traditional planking.
+> 
+> ➡️ **Day 5: Total Core Burn**
+> - **Bicycle Crunches:** 40 seconds. Most effective move for total ab activation.
+> - **V-Ups:** 10 reps. Hits upper and lower abs simultaneously.
+> - **Mountain Climbers:** 30 seconds. Explosive movement for final calorie burn.
+> - **High Knees:** 30 seconds. Maximizes the "afterburn" effect to reveal definition.
 
 ---
 
-## 📸 Application Walkthrough
+###  Application Gallery
 
-Below are the visual highlights of the FitPlan AI interface:
+#### **1. User Input Interface**
+*apturing user metrics including BMI calculation and fitness goal selection.*
+![User Profile](M2-Screenshots/user2-1.png)
 
-| Screenshot | Caption |
-| :--- | :--- |
-| ![User Input Interface](/Milestone 2/M2-Screenshots/user2-1.png) | **User Profile Setup:** Capturing user metrics including BMI calculation and fitness goal selection. |
-| ![AI Generation Process](/Milestone 2/M2-Screenshots/user2-2.png) | **Dynamic Generation:** The core AI logic processing the "Abs Building" prompt to create a specific routine. |
-| ![Final Workout Plan](/Milestone 2/M2-Screenshots/user2-3.png) | **Personalized Dashboard:** The final 5-day plan displayed with high readability and a download option. |
+#### **2. Generation Process**
+*Dynamic Generation:** The core AI logic processing the "Abs Building" prompt to create a specific routine.*
+![Personalized Plan](M2-Screenshots/user2-2.png)
+
+#### **3. Final Workout Plan**
+*The final 5-day plan displayed with high readability and a download option.*
+![Download Plan](M2-Screenshots/user2-3.png)
 
 ---
+
+
+
 
 
 
