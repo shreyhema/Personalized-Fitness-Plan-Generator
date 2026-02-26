@@ -80,9 +80,9 @@ Below are the visual highlights of the FitPlan AI interface:
 
 | Screenshot | Caption |
 | :--- | :--- |
-| ![User Input Interface](./screenshots/step1_profile.png) | **User Profile Setup:** Capturing user metrics including BMI calculation and fitness goal selection. |
-| ![AI Generation Process](./screenshots/step2_generation.png) | **Dynamic Generation:** The core AI logic processing the "Abs Building" prompt to create a specific routine. |
-| ![Final Workout Plan](./screenshots/step3_plan.png) | **Personalized Dashboard:** The final 5-day plan displayed with high readability and a download option. |
+| ![User Input Interface](./Milestone 2/M2-Screenshots/user2-1.png) | **User Profile Setup:** Capturing user metrics including BMI calculation and fitness goal selection. |
+| ![AI Generation Process](./Milestone 2/M2-Screenshots/user2-2.png) | **Dynamic Generation:** The core AI logic processing the "Abs Building" prompt to create a specific routine. |
+| ![Final Workout Plan](./Milestone 2/M2-Screenshots/user2-3.png) | **Personalized Dashboard:** The final 5-day plan displayed with high readability and a download option. |
 
 ---
 
