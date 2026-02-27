@@ -30,10 +30,7 @@ The system uses a **Context-Aware Prompt Construction** method. The input is not
 
 1. **Model Loading:** Integrated a robust generation function into the Streamlit lifecycle.
 2. **Prompt Creation:** Developed `prompt_builder.py` logic to synthesize Name, BMI, Goal, Level, and Equipment into a single generation request.
-3. **Inference Testing:** Validated the model with three distinct scenarios:
-    * **Scenario 1:** Beginner | Weight Loss | No Equipment.
-    * **Scenario 2:** Advanced | Build Muscle | Full Gym.
-    * **Scenario 3:** Intermediate | Flexibility | Yoga Mat.
+3. **Inference Testing:** Validated the model with different scenarios.
 4. **UI Styling:** Implemented a Dark Mode UI with custom CSS for plan readability.
 
 ---
