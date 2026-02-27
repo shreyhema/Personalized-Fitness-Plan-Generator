@@ -14,7 +14,7 @@ The primary goal of Milestone 2 was to implement the **Core AI Model Integration
 
 ##  Model Information
 * **Model Type:** Logic-Driven Generation Engine.
-* **Core Logic:** The application utilizes a `workout_generator` function that acts as a deterministic model, mapping specific user goals (Build Muscle, Weight Loss, Strength Gain, etc.) to optimized training protocols.
+* **Core Logic:** The application utilizes and acts as a deterministic model, mapping specific user goals (Build Muscle, Weight Loss, Strength Gain, etc.) to optimized training protocols.
 * **Inference Method:** Dynamic Template Mapping based on user profile context.
 
 ##  Prompt Design Explanation
