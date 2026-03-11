@@ -1,12 +1,10 @@
-# ⚡ FitPlan AI: Personalized Fitness Plan Generator
-
-**FitPlan AI** is a state-of-the-art, intelligence-powered fitness application designed to generate dynamic workout and dietary plans tailored to individual user profiles. Built with a premium aesthetic and a focus on security, the platform ensures that your journey to peak performance is both data-driven and secure.
+#  FitPlan AI: Personalized Fitness Plan Generator
 
 ---
 
 ## 🚀 Milestone 3: Secure Login & OTP Verification
 
-The latest update introduces a robust authentication layer to protect user data and personalize the dashboard experience. Access is now governed by a multi-step verification process.
+This milestone introduces a robust authentication layer to protect user data and personalize the dashboard experience. Access is now governed by a multi-step verification process.
 
 ### Key Features
 * **Secure Signup:** New users can register with their email and a hashed password stored securely in a local database.
@@ -27,36 +25,6 @@ The latest update introduces a robust authentication layer to protect user data 
 | **Database** | SQLite / SQLAlchemy |
 | **Security** | JWT (JSON Web Tokens) & PBKDF2 Password Hashing |
 | **Email Service** | SendGrid API |
-| **AI Engine** | Gemini 1.5 Pro / Flash |
-
----
-
-## 📦 Installation & Setup
-
-1.  **Clone the Repository**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/FitPlan-AI-Personalized-Fitness-Plan-Generator.git](https://github.com/YOUR_USERNAME/FitPlan-AI-Personalized-Fitness-Plan-Generator.git)
-    cd FitPlan-AI-Personalized-Fitness-Plan-Generator
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Configure Environment Variables**
-    Create a `.env` file in the root directory and add your credentials:
-    ```env
-    SENDGRID_API_KEY='your_sendgrid_key_here'
-    FROM_EMAIL='your_verified_sender_email'
-    GOOGLE_API_KEY='your_gemini_api_key'
-    JWT_SECRET='your_random_secret_string'
-    ```
-
-4.  **Run the Application**
-    ```bash
-    streamlit run app.py
-    ```
 
 ---
 
@@ -68,12 +36,9 @@ The latest update introduces a robust authentication layer to protect user data 
 
 ---
 
-## 🎨 Visual Identity
-The application utilizes a unique **"Noir-Minimalist"** theme:
-* **Colors:** Champagne (#F5F0E8), Deep Espresso (#1A1410), and Burnished Gold (#C8A064).
-* **Typography:** Playfair Display for headers and DM Mono for technical data points.
-* **Animations:** Cinematic splash exits and card-rise effects for a tactile feel.
+## Deployment
+The application is currently configured for local deployment via VS Code:
+Local Access URL: **[http://localhost:8501/]**
 
 ---
-*Developed as part of the FitPlan AI Project Milestone Series — 2026.*
 
