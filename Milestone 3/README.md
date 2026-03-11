@@ -1,7 +1,5 @@
 #  FitPlan AI: Personalized Fitness Plan Generator
 
----
-
 ## 🚀 Milestone 3: Secure Login & OTP Verification
 
 This milestone introduces a robust authentication layer to protect user data and personalize the dashboard experience. Access is now governed by a multi-step verification process.
@@ -28,7 +26,7 @@ This milestone introduces a robust authentication layer to protect user data and
 
 ---
 
-## 🛡️ Authentication Flow
+##  Authentication Flow
 1.  **User Registration:** User details are validated and saved to the local database.
 2.  **Login Attempt:** The app checks the hashed password against the database record.
 3.  **OTP Generation:** Upon valid login, a unique 6-digit code is generated.
@@ -38,7 +36,7 @@ This milestone introduces a robust authentication layer to protect user data and
 
 ## Deployment
 The application is currently configured for local deployment via VS Code:
-Local Access URL: **[http://localhost:8501/]**
+Local Access URL: **(http://localhost:8501/)**
 
 ---
 
