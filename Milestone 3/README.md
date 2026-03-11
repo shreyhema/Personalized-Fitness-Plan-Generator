@@ -20,7 +20,7 @@ This milestone introduces a robust authentication layer to protect user data and
 | :--- | :--- |
 | **Frontend** | Streamlit (Custom CSS Injection) |
 | **Backend** | Python 3.x |
-| **Database** | SQLite / SQLAlchemy |
+| **Database** | SQLite |
 | **Security** | JWT (JSON Web Tokens) & PBKDF2 Password Hashing |
 | **Email Service** | SendGrid API |
 
