@@ -9,7 +9,7 @@ This milestone introduces a robust authentication layer to protect user data and
 * **Credential Verification:** Sophisticated login logic that verifies user credentials against the database.
 * **Multi-Factor Authentication (MFA):** Beyond simple passwords, the app implements a secure 6-digit OTP (One-Time Password) system.
 * **Email Integration:** Seamless delivery of verification codes directly to the user's registered email using the SendGrid API.
-* **Premium UI/UX:** A cinematic splash screen and a refined "Old Money" aesthetic using custom CSS and high-end typography (Playfair Display & DM Sans).
+* **Premium UI/UX:** A cinematic splash screen using custom CSS and high-end typography (Playfair Display & DM Sans).
 * **Restricted Access:** The Personal Dashboard and AI Plan Generators are locked behind a successful OTP verification gate.
 
 ---
