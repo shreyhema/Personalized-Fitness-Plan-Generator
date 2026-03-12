@@ -34,7 +34,6 @@ This milestone introduces a robust authentication layer to protect user data and
 
 ---
 
-## Deployment
 
 ###  Live Application Link
 **[View FitPlan AI on Hugging Face Spaces](https://huggingface.co/spaces/Infoysprojectwork/AI-Fitness-Plan-Generator)**
