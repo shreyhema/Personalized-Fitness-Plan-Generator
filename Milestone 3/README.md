@@ -35,7 +35,12 @@ This milestone introduces a robust authentication layer to protect user data and
 ---
 
 ## Deployment
-The application is currently configured for local deployment via VS Code:
+
+###  Live Application Link
+**[View FitPlan AI on Hugging Face Spaces](https://huggingface.co/spaces/Infoysprojectwork/AI-Fitness-Plan-Generator)**
+
+
+The application is also currently configured for local deployment via VS Code:
 Local Access URL: **(http://localhost:8501/)**
 
 ---
