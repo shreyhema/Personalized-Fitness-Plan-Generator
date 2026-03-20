@@ -15,7 +15,7 @@ The final phase focused on polishing the user experience and ensuring production
 
 ---
 
-## 🥗 New Feature: Personalized Dietary Plan
+##  New Feature: Personalized Dietary Plan
 Recognizing that fitness is 70% nutrition, FitPlan AI now generates a daily meal structure aligned with the user's specific calorie needs and fitness goals:
 
 | Meal | focus | Sample Dishes |
@@ -29,31 +29,16 @@ Recognizing that fitness is 70% nutrition, FitPlan AI now generates a daily meal
 
 ---
 
-## 🤖 AI Model & Prompt Engineering
+##  AI Model & Prompt Engineering
 The system uses a multi-layered prompt architecture to generate the **Total Transformation Plan**:
 1. **User Persona:** Name: `Krish` | BMI: `Normal` | Goal: `Abs Building`.
 2. **Workout Logic:** A 5-day split targeting the core with progressive intensity.
 3. **Nutritional Logic:** Caloric scaling based on the user's metabolic rate and activity level.
 
----
-
-## 📊 Sample Generated Output (Krish | Abs Building)
-
-### 🏋️ 5-Day Workout Plan
-> **Day 1: Upper Abs Focus**
-> - Floor Crunches: 3 sets x 20 reps.
-> - Sit-ups: 4 sets x 15 reps.
-> - Plank: 3 sets x Max Time.
-
-### 🍎 Daily Nutrition Plan
-* **Breakfast (8:30 AM - 450 kcal):** Spinach and Feta Omelet with whole-grain toast.
-* **Lunch (1:30 PM - 600 kcal):** Quinoa Bowl with Grilled Chicken and Avocado.
-* **Snack (4:30 PM - 200 kcal):** Greek Yogurt with a handful of walnuts.
-* **Dinner (8:00 PM - 500 kcal):** Baked Salmon with roasted asparagus.
 
 ---
 
-## 📸 Application Final Walkthrough
+##  Application Final Walkthrough
 
 * **Secure Access:** The verified OTP login system ensuring user data privacy. 
 * **Input Validation:** Clean UI for entering height/weight with real-time BMI feedback.
