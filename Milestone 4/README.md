@@ -55,12 +55,10 @@ The system uses a multi-layered prompt architecture to generate the **Total Tran
 
 ## 📸 Application Final Walkthrough
 
-| Screenshot | Caption |
-| :--- | :--- |
-| ![Auth Flow](./screenshots/m4_auth.png) | **Secure Access:** The verified OTP login system ensuring user data privacy. |
-| ![User Dashboard](./screenshots/m4_dashboard.png) | **Input Validation:** Clean UI for entering height/weight with real-time BMI feedback. |
-| ![Integrated Results](./screenshots/m4_results.png) | **Workout Plan:** The unified view showing both Workout and Dietary plans in a scannable layout. |
-| ![Integrated Results](M4 -Screenshots/1Diet page.png) | **Dietary Plan:** The unified view showing both Workout and Dietary plans in a scannable layout. |
+* **Secure Access:** The verified OTP login system ensuring user data privacy. 
+* **Input Validation:** Clean UI for entering height/weight with real-time BMI feedback.
+* **Workout Plan:** The unified view showing Workout plans in a scannable layout. 
+* **Dietary Plan:** The unified view showing Dietary plans in a scannable layout. 
 
 ---
 
