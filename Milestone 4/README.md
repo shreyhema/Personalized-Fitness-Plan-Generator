@@ -46,7 +46,8 @@ The system uses a multi-layered prompt architecture to generate the **Total Tran
 ---
 
 ## 🚀 Final Deployment
-The application is fully functional and deployed on Hugging Face Spaces:
-**[https://huggingface.co/spaces/Infoysprojectwork/AI-Fitness-Plan-Generator]**
+The application is fully functional and deployed on Streamlit Cloud and Hugging Face Spaces:
+* **Streamlit Clould link:** **[https://fitplan-ai-8qfajtbzuct4mfpjyev4nn.streamlit.app/]**
+* **Hugging Face link:** **[https://huggingface.co/spaces/Infoysprojectwork/AI-Fitness-Plan-Generator]**
 
 
