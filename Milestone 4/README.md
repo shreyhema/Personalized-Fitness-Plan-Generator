@@ -1,1 +1,69 @@
+# 🏋️‍♂️ FitPlan AI: Personalized Fitness Plan Generator
+### Milestone 4: Application Finalization & Deployment
+
+**FitPlan AI** is an all-in-one AI-driven health assistant. In this final milestone, the platform has been evolved from a workout generator into a comprehensive fitness ecosystem, integrating **Personalized Nutrition Tracking** and a **Secure Authentication Flow**.
+
+---
+
+## 🎯 Milestone 4 Objectives
+The final phase focused on polishing the user experience and ensuring production-readiness:
+* **Full Authentication Suite:** Implementation of Signup, Login, and secure **OTP Verification** (including Resend OTP logic).
+* **Holistic Health Approach:** Integration of a **Personalized Dietary Plan** generator alongside workout routines.
+* **Input Validation:** Robust error handling for age, BMI, and physical metrics to ensure plan accuracy.
+* **UI/UX Optimization:** Refined navigation between the User Dashboard and the dynamic Results page.
+* **Model Resilience:** Graceful handling of AI inference to ensure 100% uptime of generated plans.
+
+---
+
+## 🥗 New Feature: Personalized Dietary Plan
+Recognizing that fitness is 70% nutrition, FitPlan AI now generates a daily meal structure aligned with the user's specific calorie needs and fitness goals:
+
+| Meal | focus | Sample Dishes |
+| :--- | :--- | :--- |
+| **Breakfast** | High Protein / Energy | Oats with Whey, Greek Yogurt, or Scrambled Eggs |
+| **Lunch** | Complex Carbs & Lean Protein | Grilled Chicken/Tofu with Brown Rice and Greens |
+| **Snack** | Metabolic Boost | Almonds, Protein Shake, or Fruit |
+| **Dinner** | Recovery & Low Carb | Grilled Fish or Quinoa Salad with Steamed Veggies |
+
+*Includes: Specific calorie counts, optimal eating times, and curated dish suggestions.*
+
+---
+
+## 🤖 AI Model & Prompt Engineering
+The system uses a multi-layered prompt architecture to generate the **Total Transformation Plan**:
+1. **User Persona:** Name: `Krish` | BMI: `Normal` | Goal: `Abs Building`.
+2. **Workout Logic:** A 5-day split targeting the core with progressive intensity.
+3. **Nutritional Logic:** Caloric scaling based on the user's metabolic rate and activity level.
+
+---
+
+## 📊 Sample Generated Output (Krish | Abs Building)
+
+### 🏋️ 5-Day Workout Plan
+> **Day 1: Upper Abs Focus**
+> - Floor Crunches: 3 sets x 20 reps.
+> - Sit-ups: 4 sets x 15 reps.
+> - Plank: 3 sets x Max Time.
+
+### 🍎 Daily Nutrition Plan
+* **Breakfast (8:30 AM - 450 kcal):** Spinach and Feta Omelet with whole-grain toast.
+* **Lunch (1:30 PM - 600 kcal):** Quinoa Bowl with Grilled Chicken and Avocado.
+* **Snack (4:30 PM - 200 kcal):** Greek Yogurt with a handful of walnuts.
+* **Dinner (8:00 PM - 500 kcal):** Baked Salmon with roasted asparagus.
+
+---
+
+## 📸 Application Final Walkthrough
+
+| Screenshot | Caption |
+| :--- | :--- |
+| ![Auth Flow](./screenshots/m4_auth.png) | **Secure Access:** The verified OTP login system ensuring user data privacy. |
+| ![User Dashboard](./screenshots/m4_dashboard.png) | **Input Validation:** Clean UI for entering height/weight with real-time BMI feedback. |
+| ![Integrated Results](./screenshots/m4_results.png) | **Final Plan:** The unified view showing both Workout and Dietary plans in a scannable layout. |
+
+---
+
+## 🚀 Final Deployment
+The application is fully functional and deployed on Hugging Face Spaces:
+**[REPLACE_WITH_YOUR_HF_SPACES_LINK]**
 
