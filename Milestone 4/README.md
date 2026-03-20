@@ -49,5 +49,5 @@ The system uses a multi-layered prompt architecture to generate the **Total Tran
 
 ## 🚀 Final Deployment
 The application is fully functional and deployed on Hugging Face Spaces:
-**[REPLACE_WITH_YOUR_HF_SPACES_LINK]**
+**[https://huggingface.co/spaces/Infoysprojectwork/AI-Fitness-Plan-Generator]**
 
