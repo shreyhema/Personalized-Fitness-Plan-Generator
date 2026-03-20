@@ -1,7 +1,7 @@
 # 🏋️‍♂️ FitPlan AI: Personalized Fitness Plan Generator
 ### Milestone 4: Application Finalization & Deployment
 
-**FitPlan AI** is an all-in-one AI-driven health assistant. In this final milestone, the platform has been evolved from a workout generator into a comprehensive fitness ecosystem, integrating **Personalized Nutrition Tracking** and a **Secure Authentication Flow**.
+**FitPlan AI** is an all-in-one AI-driven health assistant. In this final milestone, the platform has been evolved from a workout generator into a comprehensive fitness ecosystem, integrating **Personalized Workout and Nutrition Plan** and a **Secure Authentication Flow**.
 
 ---
 
@@ -59,7 +59,8 @@ The system uses a multi-layered prompt architecture to generate the **Total Tran
 | :--- | :--- |
 | ![Auth Flow](./screenshots/m4_auth.png) | **Secure Access:** The verified OTP login system ensuring user data privacy. |
 | ![User Dashboard](./screenshots/m4_dashboard.png) | **Input Validation:** Clean UI for entering height/weight with real-time BMI feedback. |
-| ![Integrated Results](./screenshots/m4_results.png) | **Final Plan:** The unified view showing both Workout and Dietary plans in a scannable layout. |
+| ![Integrated Results](./screenshots/m4_results.png) | **Workout Plan:** The unified view showing both Workout and Dietary plans in a scannable layout. |
+| ![Integrated Results](M4 -Screenshots/1Diet page.png) | **Dietary Plan:** The unified view showing both Workout and Dietary plans in a scannable layout. |
 
 ---
 
